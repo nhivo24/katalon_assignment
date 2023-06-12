@@ -1,0 +1,43 @@
+{
+  "keywordFileContentHash": "E394D5B5E08E42012FE06C78EEE922D9",
+  "keywordClasses": [
+    {
+      "name": "a1.A1_TC002_Verify_Drag_and_Drop",
+      "keywordMethods": [
+        {
+          "name": "dragAndDrop",
+          "parameters": [
+            {
+              "name": "sourceObject",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "com.kms.katalon.core.testobject.TestObject",
+                "unresolvedClassName": "TestObject",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "destinationObject",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "com.kms.katalon.core.testobject.TestObject",
+                "unresolvedClassName": "TestObject",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

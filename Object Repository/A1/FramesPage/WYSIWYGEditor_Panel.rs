@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>WYSIWYGEditor_Panel</name>
+   <tag></tag>
+   <elementGuidId>114f3bf5-195e-437f-afd9-b3204e25ea9c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(), 'WYSIWYG Editor')]
+</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li:nth-of-type(44) > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>5a24a91b-4a3c-4481-a071-68e0a766b8cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/tinymce</value>
+      <webElementGuid>e69f42bb-1864-4bb2-a442-9c2342b68a1e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>WYSIWYG Editor</value>
+      <webElementGuid>ce292b80-177d-4a21-be14-4457750eb9dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/ul[1]/li[44]/a[1]</value>
+      <webElementGuid>e8e62039-0c9a-49ab-b4ab-7f65ad139a9a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/ul/li[44]/a</value>
+      <webElementGuid>954a92c1-5e8c-44bf-b322-b1d6062f4da6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'WYSIWYG Editor')]</value>
+      <webElementGuid>3ea98a75-eabf-4484-ab3c-8fb3659c8870</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Typos'])[1]/following::a[1]</value>
+      <webElementGuid>ff7a5a4e-d69d-46a1-b006-e19e1f5c64ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Status Codes'])[1]/following::a[2]</value>
+      <webElementGuid>1cc91ccc-8d1c-47bd-8838-4eca3534f83e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Elemental Selenium'])[1]/preceding::a[1]</value>
+      <webElementGuid>4673b211-e5ae-40ea-9f00-2ea0b449985f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='WYSIWYG Editor']/parent::*</value>
+      <webElementGuid>1b31d845-259d-4455-978e-cadaca22712c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/tinymce')]</value>
+      <webElementGuid>64ba233e-f053-4127-9f76-a7ae752a22b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[44]/a</value>
+      <webElementGuid>364ff4ea-43c5-4354-ada8-f0495f3bed70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/tinymce' and (text() = 'WYSIWYG Editor' or . = 'WYSIWYG Editor')]</value>
+      <webElementGuid>4ed05a48-32e3-4dc9-aa63-78bce4c9d310</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

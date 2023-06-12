@@ -1,0 +1,29 @@
+{
+  "keywordFileContentHash": "8C8B9793FCCCE2497D08C79207E720AC",
+  "keywordClasses": [
+    {
+      "name": "a5.Commona5",
+      "keywordMethods": [
+        {
+          "name": "getApkPath",
+          "parameters": [
+            {
+              "name": "pathToFile",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "javadocParsed": false
+}

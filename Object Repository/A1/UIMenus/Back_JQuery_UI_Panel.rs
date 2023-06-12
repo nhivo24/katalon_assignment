@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Back_JQuery_UI_Panel</name>
+   <tag></tag>
+   <elementGuidId>20e66d2a-f370-47b4-a8d7-1edd45b990bb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[contains(@class, 'ui-menu')]/li/a[text()='Back to JQuery UI']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#ui-id-8 > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>a7cb1cef-696c-4698-b1e1-9da8b89f9057</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/jqueryui</value>
+      <webElementGuid>d6511594-c6a9-4166-ba58-d0aa1b4e163e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Back to JQuery UI</value>
+      <webElementGuid>ff453157-432c-4165-b461-6c0c98b8150c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ui-id-8&quot;)/a[1]</value>
+      <webElementGuid>e4564011-0916-4531-805d-60679de709ee</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='ui-id-8']/a</value>
+      <webElementGuid>60db7748-fa72-45d7-bf01-b3947e536ec3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Back to JQuery UI')]</value>
+      <webElementGuid>1415a0da-e826-4006-a331-1a4bfc991ad4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Excel'])[1]/following::a[1]</value>
+      <webElementGuid>00004195-9751-47d8-82f6-08eb32491fed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CSV'])[1]/following::a[2]</value>
+      <webElementGuid>8511b0c8-aaff-4e8f-ab67-5ff34d53d2d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Elemental Selenium'])[1]/preceding::a[1]</value>
+      <webElementGuid>e7ff587e-4f2c-4b6e-9f28-38b5bd0b0faa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Back to JQuery UI']/parent::*</value>
+      <webElementGuid>929514a0-657c-41b6-bd09-0c6c6f54c2e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/jqueryui')])[4]</value>
+      <webElementGuid>ab77950d-fc9b-4774-adc8-12c7a7c494c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/ul/li[2]/a</value>
+      <webElementGuid>e1c1d056-c2e1-4671-9342-308be5afb977</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/jqueryui' and (text() = 'Back to JQuery UI' or . = 'Back to JQuery UI')]</value>
+      <webElementGuid>b2ac6e0f-0fd6-4ee6-a40f-d4d7a4b04e95</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

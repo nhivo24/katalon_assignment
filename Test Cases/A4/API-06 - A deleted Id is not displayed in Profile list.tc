@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>API-06 - A deleted Id is not displayed in Profile list</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8f0c378f-93d5-4788-8fb7-508e1ae50d90</testCaseGuid>
+</TestCaseEntity>

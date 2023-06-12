@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>A1-TC001_VerifyCheckboxes</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>760e7f7d-62f5-4585-af14-9035d8416011</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0d204729-580d-40c2-9dad-f7e07e997005</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'#checkboxes:checked'</defaultValue>
+      <description></description>
+      <id>0d204729-580d-40c2-9dad-f7e07e997005</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+</TestCaseEntity>

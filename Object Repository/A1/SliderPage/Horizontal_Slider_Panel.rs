@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Horizontal_Slider_Panel</name>
+   <tag></tag>
+   <elementGuidId>9ecdbab7-0e56-4064-b3c1-7c48d07a289e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li:nth-of-type(24) > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@href='/horizontal_slider']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>d65a60dc-0f3f-4d90-9f17-d4a6b2862b5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/horizontal_slider</value>
+      <webElementGuid>b3ba25c9-2963-4119-be5c-a8ceee0ac1a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Horizontal Slider</value>
+      <webElementGuid>294c7bbf-bfac-4403-afca-1a7d3806afe3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/ul[1]/li[24]/a[1]</value>
+      <webElementGuid>ec73feda-4ca2-49b8-8ee9-f48c3e88caa6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/ul/li[24]/a</value>
+      <webElementGuid>cca08b59-226d-4a9b-a2dd-a765c3c2194a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Horizontal Slider')]</value>
+      <webElementGuid>3ba43fe7-3d59-4ec5-93e8-bf4fcc80af4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Geolocation'])[1]/following::a[1]</value>
+      <webElementGuid>b7d3f1e2-a861-4374-92aa-eb124cf1fc61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Frames'])[1]/following::a[2]</value>
+      <webElementGuid>990860cb-6862-49ac-92bd-7b923741adc9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hovers'])[1]/preceding::a[1]</value>
+      <webElementGuid>2fb1cda9-5594-477c-ad8d-0d483f27e3c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Infinite Scroll'])[1]/preceding::a[2]</value>
+      <webElementGuid>2729d520-4c79-4013-bdc0-63a6c8c32b3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Horizontal Slider']/parent::*</value>
+      <webElementGuid>82dd9805-7a2b-467a-955d-b444a29b3c43</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/horizontal_slider')]</value>
+      <webElementGuid>502671fd-4903-4fc3-ae1d-4f9398495623</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[24]/a</value>
+      <webElementGuid>08d5d50f-3079-4340-b416-076b5581f282</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/horizontal_slider' and (text() = 'Horizontal Slider' or . = 'Horizontal Slider')]</value>
+      <webElementGuid>5a01cf2c-03d1-47e9-bb72-6b5e53ad627d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

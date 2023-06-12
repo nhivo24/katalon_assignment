@@ -1,0 +1,30 @@
+{
+  "keywordFileContentHash": "67C7349BEBA3056BEA234C3DC42099CF",
+  "keywordClasses": [
+    {
+      "name": "a1.A1_TC011",
+      "keywordMethods": [
+        {
+          "name": "verifyColumnSorted",
+          "parameters": [
+            {
+              "name": "testObject",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "com.kms.katalon.core.testobject.TestObject",
+                "unresolvedClassName": "TestObject",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

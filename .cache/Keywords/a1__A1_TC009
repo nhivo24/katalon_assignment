@@ -1,0 +1,75 @@
+{
+  "keywordFileContentHash": "6CDF8C5FA19EC7E847AD8E1A1B9DF761",
+  "keywordClasses": [
+    {
+      "name": "a1.A1_TC009",
+      "keywordMethods": [
+        {
+          "name": "setSlider",
+          "parameters": [
+            {
+              "name": "sliderObject",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "com.kms.katalon.core.testobject.TestObject",
+                "unresolvedClassName": "TestObject",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "valueDesired",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "float",
+                "unresolvedClassName": "float",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": true,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "valueCurrent",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "float",
+                "unresolvedClassName": "float",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": true,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        },
+        {
+          "name": "getFloatValue",
+          "parameters": [
+            {
+              "name": "testObject",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "com.kms.katalon.core.testobject.TestObject",
+                "unresolvedClassName": "TestObject",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

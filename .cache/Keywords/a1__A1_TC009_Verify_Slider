@@ -1,0 +1,43 @@
+{
+  "keywordFileContentHash": "135958B0ED470209BC64CA6C72B77250",
+  "keywordClasses": [
+    {
+      "name": "a1.A1_TC009_Verify_Slider",
+      "keywordMethods": [
+        {
+          "name": "setSlider",
+          "parameters": [
+            {
+              "name": "sliderObject",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "com.kms.katalon.core.testobject.TestObject",
+                "unresolvedClassName": "TestObject",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "sliderValue",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "double",
+                "unresolvedClassName": "double",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": true,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
